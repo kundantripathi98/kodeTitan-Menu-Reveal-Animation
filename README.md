@@ -34,7 +34,8 @@ This project was rebuilt step-by-step on my YouTube channel.
 
 If you want to see the full breakdown, animation logic explanation, and development process, watch the video here:
 
-👉 **Full Build Video:** (https://youtu.be/OiA33b3BvJY)
+👉 **I Found This Insanely Smooth Menu Animation… So I Rebuilt It** 
+(https://youtu.be/OiA33b3BvJY)
 
 If you enjoy premium UI rebuilds and advanced animation tutorials, consider subscribing:
 
@@ -95,4 +96,5 @@ No build tools required.
 ---
 
 Built with attention to motion and detail.
+
 
